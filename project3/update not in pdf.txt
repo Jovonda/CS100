@@ -1,0 +1,1 @@
+"For example, for the capital A, these 5 integers are 1111110 (or 0x1E in hexadecimal), 0010001 (or 0x11), 0010001 (0x11), 0010001 (0x11), and 1111110 (0x1E)" to "For example, for the capital A, these 5 integers are 1111110 (or 0x7E in hexadecimal), 0010001 (or 0x11), 0010001 (0x11), 0010001 (0x11), and 1111110 (0x7E)". 

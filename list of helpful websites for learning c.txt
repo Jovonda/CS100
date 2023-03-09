@@ -1,0 +1,18 @@
+https://www.learn-c.org/- Teaches basic and hard concepts, but may have some wrong information
+
+https://www.youtube.com/watch?v=KJgsSFOSQv0 - Tutorial for Beginners, goes over some of what we did in class
+
+https://www.youtube.com/watch?v=2NWeucMKrLI&list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq - Also really good tutorial for learing c
+
+https://www.codewars.com/ - Good for when you got the hang of c, have to pass a test to sign up first, use for practicing code
+
+https://www.hackerrank.com/ - Good for practicing code
+
+https://www.codingame.com/- Good for challenging other people in coding
+
+For the Labs, quizzes, and tracing, try to do them without looking at the answers first.
+
+A good tool to use for coding is to use ATOM, it is a text editor and it is really helpful, it helped me pass my class. Even though the basics might say to use VIM, it is best to go online and download ATOM.
+
+*Since ATOM has now shutdown, it is usually best to use Visual Studio Code instead, or you can try to use Pulsar which is the "successor" to atom
+
