@@ -4,7 +4,7 @@
 I did ask a former professor for permission to post my code from this class on here since I have already graduated.
 I , however, was told not to use some prompts which were lecture promts or for projects.
 There are comments in the project code giving a brief introduction about what the program does, but pdfs for the senarios are not included.
-There are past quizzes, exams, and past final exams from 2017 and 2018 that are fine,because they do not have any disclaimer on them. 
+There are past quizzes, exams, and past final exams from 2017 and 2018 that are fine, because they do not have any disclaimer on them. 
 
 ### Overall Description
 This is a whole cumulation of everything I have done in CS100 for the Spring semester of 2019.
