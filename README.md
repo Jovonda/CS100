@@ -43,7 +43,7 @@ I have answers to both in each part. For personal practice, try to time yourself
 the coding part.
 
 ## Final Exams
-The final exams are just pracitice exams from fall and spring 2017 and 2018. There are pdfs for these just like the regular exams.
+The final exams are just pracitice final exams from fall and spring 2017 and 2018. There are pdfs for these just like the regular exams.
 Also just like the regular exams these are also separated into tracing and coding parts. I also have answers for both parts. The final exams 
 where given a much longer time period of 2 hrs. From what I remember it was 30 minutes for tracing while the rest was for the coding part.
 
